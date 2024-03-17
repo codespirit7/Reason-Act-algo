@@ -7,7 +7,7 @@ For instance, ChatGPT plugins can interact with external tools in its conversati
 Another example is the search integration. LLMs doesn’t always give correct answers, and the method to interact with external search engine (for both internet and intranet) is then often applied in real QA systems.
 Several flexible architectures with combination between LLM’s reasoning and additional tools (experts) are then proposed in several papers – such as, in ReAct (Reasoning + Acting) or MRKL (Modular Reasoning, Knowledge and Language).
 
-ReAct is a fundamental of agent framework which has been introduced in this paper (Shunyu et al., 2022).
+ReAct is a fundamental of agent framework which has been introduced in paper https://arxiv.org/abs/2210.03629 (Shunyu et al., 2022).
 As you can see in this post, you can apply this method in various types of automation (orchestration) between LLMs and external tools.
 For instance, now we define the action “search [entity]” which returns the sentences from the corresponding Wikipedia entity. By applying ReAct prompting, the multi-hop questions (which cannot be answered from a single Wikipedia entity, 
 but can be answered by referencing the multiple entities) can then be disassembled into multiple search’s actions and all actions will then be processed by external tools.
