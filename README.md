@@ -36,9 +36,12 @@ After executing the cmd you will get the desired ouptut as below.
 ![Screenshot from 2024-03-17 09-56-20](https://github.com/codespirit7/Reason-Act-algo/assets/88592710/dc2da34b-c603-41df-88d6-c134942226e2)
 
 List of References:
-https://arxiv.org/abs/2210.03629
-https://tsmatz.wordpress.com/2023/03/07/react-with-openai-gpt-and-langchain/
-https://react-lm.github.io/
+ 
+  https://arxiv.org/abs/2210.03629
+  
+  https://tsmatz.wordpress.com/2023/03/07/react-with-openai-gpt-and-langchain/
+  
+  https://react-lm.github.io/
 
 
 
