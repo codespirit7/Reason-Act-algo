@@ -33,7 +33,8 @@ npm run start
 After executing the cmd you will get the desired ouptut as below.
 
 
-![image](https://github.com/codespirit7/Reason-Act-algo/assets/88592710/e51a71c6-653e-4eb8-91e8-2b8594ea9b32)
+![image](https://github.com/codespirit7/Reason-Act-algo/assets/88592710/d6952e79-4189-4c1f-862b-27d5314fdd4c)
+
 
 
 List of References:
